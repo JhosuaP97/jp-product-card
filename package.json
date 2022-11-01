@@ -38,7 +38,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "jp-product-card",
+  "name": "jp-product-card-97",
   "author": "JhosuaP97",
   "module": "dist/jp-product-card.esm.js",
   "size-limit": [

@@ -1,4 +1,4 @@
-# jp-product-card
+# jp-product-card-97
 
 This a test pack to deploy in NPM
 
@@ -7,7 +7,7 @@ This a test pack to deploy in NPM
 ## Ejemplo
 
 ```
-import {ProductCard,ProductImage,ProductTitle,ProductButtons} from "jp-product-card"
+import {ProductCard,ProductImage,ProductTitle,ProductButtons} from "jp-product-card-97"
 ```
 
 ```
